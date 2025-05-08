@@ -1,0 +1,44 @@
+html{
+    background-color: #009688;
+}
+
+div {
+    text-align: center;
+    border:solid black;
+    padding: 10px;
+    background-color: white;
+}
+h1{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+
+img{
+    border: solid white;
+    border-radius: 20px;
+}
+
+h2, h6, form, label{
+    text-align: right;
+    color: white;
+    background-color: #005144;
+    grid-row: 15px;
+}
+
+#h62{
+    text-align: center;
+    background-color: #004D40;
+}
+
+h3{
+    justify-content: start;
+    text-align: center;
+    background-color: #26675C;
+}
+
+#h66, #h96{
+    background-color: #0D564A;
+}
