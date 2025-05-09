@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+
+body{
+    border: 2px solid black;
+}
+
+header{
+    
+    height: 60px;
+}
+
+
+
+h1{
+    text-align: center;
+}
+section{
+    background-color: rgb(17, 139, 170);
+    height: 700px;
+    width: 100%;
+
+}
+.imagenes{
+    width: 200px;
+    height: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr auto;
+}
+
+.boton{
+    background-color: red;
+    color: white;
+}    
+
+
+
+
+
+
+.formulario{
+    border: 2px solid white;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(13, 67, 99);
+    float: right;
+    margin-right: 100px;
+    display: grid;
+    place-items: center;
+    
+    
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+.img1{
+    width: 200px;
+}
+.img2{
+    width: 200px;
+    height: 134px;
+}
+.img3{
+    width: 200px;
+    height: 134px;
+}
+.img4{
+    width: 200px;
+    height: 134px;
+}
+.img5{
+    width: 200px;
+    height: 134px;
+}
+.img6{
+    width: 200px;
+    height: 134px;
+}
+.img7{
+    width: 200px;
+    height: 134px;
+}
+.img8{
+    width: 200px;
+    height: 134px;
+}
+footer{
+    background-color:rgb(13, 67, 99);
+    height: 200px;
+    place-items: center;
+}
+table{
+    color: white;
+    height: 150px;
+}
